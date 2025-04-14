@@ -1,0 +1,127 @@
+Página 1:
+- Relatório referente ao domínio: gmaxchevrolet.com.br
+- Data de geração: 8 de abril de 2025
+- Fonte: SEMrush
+- Endereço da SEMrush: 800 Boylston Street, Suite 2475, Boston, MA 02199
+
+Página 2:
+Resumo da Busca Orgânica:
+- Tráfego estimado: 118 (queda de 16%)
+- Posição no ranking da Semrush: 636.0k
+- Palavras-chave orgânicas: 96 (aumento de 3%)
+- Custo do tráfego: R$47 (queda de 28%)
+
+Resumo da Busca Paga:
+- Tráfego estimado: 0 (estável)
+- Palavras-chave pagas: 1 (estável)
+- Custo do tráfego pago: R$0 (estável)
+
+Backlinks:
+- Total: 60
+- Domínios de referência: 26
+- IPs de referência: 23
+
+Página 3:
+Distribuição das Palavras-chave por País (Busca Orgânica):
+- Brasil: 94,12%
+- Outros: 5,88%
+
+Distribuição das Palavras-chave por País (Busca Paga):
+- Brasil: 50%
+- Mobile Brasil: 50%
+- Outros: 0%
+
+Gráfico de Tráfego Orgânico vs Pago (Jan/2012 a Jan/2026):
+- Tráfego orgânico oscilou entre 0 e 500 visitas
+- Tráfego pago permaneceu nulo durante todo o período
+
+Página 4:
+Principais Palavras-chave Orgânicas:
+1. "gmax" – Posição: 4 – Volume: 3.600 – Tráfego: 91,52%
+2. "onix rgd 1.0" – Posição: 6 – Volume: 140 – Tráfego: 2,54%
+3. "onix rgd" – Posição: 5 – Volume: 110 – Tráfego: 1,69%
+4. "chevrolet no rio de janeiro" – Posição: 10 – Volume: 260 – Tráfego: 1,69%
+5. "nova silverado 2025" – Posição: 13 – Volume: 1.000 – Tráfego: 0,84%
+
+Distribuição das Posições:
+- Posições 1-3: 0
+- Posições 4-10: 7
+- Posições 11-20: 16
+- Posições 21-30: 14
+- Posições 31-40: 21
+- Posições 41-50: 13
+- Posições 51-100: 25
+
+Intenção das Palavras-chave:
+- Informacional: 69 palavras – 7 de tráfego (63,3%)
+- Navegacional: 10 palavras – 1 de tráfego (9,2%)
+- Comercial: 22 palavras – 110 de tráfego (20,2%)
+- Transacional: 8 palavras – 0 de tráfego (7,3%)
+
+Página 5:
+Principais Concorrentes Orgânicos:
+1. genesysnh.com.br – 1 palavra em comum – 14 palavras-chave – Similaridade: 11%
+2. gmaxlogistica.com.br – 1 palavra em comum – 18 palavras-chave – Similaridade: 10%
+3. codisman.com.br – 1 palavra em comum – 19 palavras-chave – Similaridade: 9%
+4. alencautochevrolet.com.br – 2 palavras em comum – 149 palavras-chave – Similaridade: 8%
+5. servelchevrolet.com.br – 6 palavras em comum – 509 palavras-chave – Similaridade: 7%
+
+Tráfego de Marca:
+- Palavras-chave de marca: 0
+- Tráfego com marca: 0
+- Proporção: 0% branded / 100% não-branded
+
+Página 6:
+Gráfico de Tráfego Pago Mensal (Set/2024 a Mar/2025):
+- Tráfego pago inexistente, mantendo-se em 0 ao longo dos meses.
+
+Palavra-chave Paga:
+1. "tracker turbo 2025 preço" – Posição: 7 – Volume: 90 – CPC: R$1,42 – Tráfego: 0,00%
+
+Distribuição da Posição:
+- Posição 4-8: 1 palavra
+- Outras faixas: 0
+
+Concorrentes Pagos:
+- novoriochevroletjuazeiro.com.br – Similaridade: 2%
+- chevroletamericas.com.br – Similaridade: 0%
+- orcachevrolet.com.br – Similaridade: 0%
+
+Página 7:
+Exemplo de Anúncio:
+1. "A partir de R$116.990,00 – Pagamos até 100% da Fipe"
+   - URL: https://www.gmaxchevrolet.com.br
+   - Texto: Ofertas imperdíveis para você aproveitar a vida com um Tracker.
+   - Página de destino: https://www.gmaxchevrolet.com.br/novos/novo-tracker-2025
+
+Página 8:
+Backlinks - Total: 60
+
+Backlinks listados:
+- http://backlink.wiki/domain.php?part=11%2F17%2F2024%2F677 -> https://gmaxchevrolet.com.br/
+- http://vickys.design/domain.php?part=11%2F17%2F2024%2F677 -> https://gmaxchevrolet.com.br/
+- http://weknow.website/domain.php?part=11%2F17%2F2024%2F677 -> https://gmaxchevrolet.com.br/
+- http://zhanhao.online/domain.php?part=11%2F17%2F2024%2F677 -> https://gmaxchevrolet.com.br/
+- https://eurobarrafiat.com.br/empresa/politica-de-cookies -> https://www.gmaxchevrolet.com.br/
+
+Anchors:
+- gmaxchevrolet.com.br – 58% (16 domínios, 35 backlinks)
+- https://www.gmaxchevrolet.com.br/ – 38% (8 domínios, 23 backlinks)
+- seoflox.com e exlinko.com – 4% (2 backlinks)
+
+Follow/Nofollow:
+- Follow: 23 (38,33%)
+- Nofollow: 37 (61,67%)
+
+Tipos de Backlinks:
+- Texto: 31
+- Imagem: 29
+- Frame/Form: 0
+
+Domínios de Referência Relevantes:
+- backlink.wiki, seo-tip.com, vickys.design, weknow.website, wtotalvw.com.br
+
+Páginas mais referenciadas:
+- https://gmaxchevrolet.com.br/ – 28 backlinks de 13 domínios
+- https://www.gmaxchevrolet.com.br/ – 20 backlinks de 7 domínios
+- /acessorios, /consorcios, /consorcios/spin-2025 – 0 backlinks

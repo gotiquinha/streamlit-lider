@@ -1,0 +1,135 @@
+
+    1: """Página 1:
+- Relatório referente ao domínio: valencejeep.com.br
+- Data de geração: 7 de abril de 2025
+- Fonte: SEMrush
+- Endereço: 800 Boylston Street, Suite 2475, Boston, MA 02199
+""",
+    2: """Página 2:
+Resumo da Busca Orgânica:
+- Tráfego estimado: 3.800 (↑ 2%)
+- Posição no ranking da Semrush: 82.000
+- Palavras-chave orgânicas: 246 (↑ 1%)
+- Custo do tráfego: R$9.300 (↑ 1%)
+
+Resumo da Busca Paga:
+- Tráfego estimado: 40
+- Palavras-chave pagas: 6
+- Custo do tráfego pago: R$105
+
+Backlinks:
+- Total: 299
+- Domínios de referência: 79
+- IPs de referência: 117
+""",
+    3: """Página 3:
+Distribuição das Palavras-chave por País:
+- Orgânica:
+  - Brasil: 90,11%
+  - Outros: 9,89%
+
+- Paga:
+  - Brasil: 54,55%
+  - Mobile Brasil: 45,45%
+  - Outros: 0%
+
+Gráfico de Tráfego Orgânico vs Pago:
+- Tráfego orgânico estável abaixo de 20.000 visitas
+- Tráfego pago oscilando entre 0,38 e 0,70 no último ano
+""",
+    4: """Página 4:
+Principais Palavras-chave Orgânicas:
+1. "jeep valence" – Posição: 1 – Volume: 1.000 – Tráfego: 21,25%
+2. "valence jeep" – Posição: 1 – Volume: 1.000 – Tráfego: 21,25%
+3. "valence jeep belo horizonte" – Posição: 1 – Volume: 390 – Tráfego: 8,29%
+4. "jeep valence belo horizonte" – Posição: 1 – Volume: 260 – Tráfego: 5,52%
+5. "jeep raja gabaglia" – Posição: 1 – Volume: 260 – Tráfego: 5,52%
+
+Distribuição das Posições:
+- Posições 1-3: 25
+- Posições 4-10: 50
+- Posições 11-20: 75
+- Posições 21-30: 44
+- Posições 31-40: 36
+- Posições 41-50: 48
+- Posições 51-100: 49
+""",
+    5: """Página 5:
+Palavras-chave por Intenção:
+- Informacional: 134 palavras – 2.600 tráfego (43,1%)
+- Navegacional: 89 palavras – 2.800 tráfego (28,6%)
+- Comercial: 78 palavras – 790 tráfego (25,1%)
+- Transacional: 10 palavras – 12 tráfego (3,2%)
+
+Concorrentes Orgânicos:
+1. romajeep.com.br – 19 palavras – 203 palavras-chave – Similaridade: 33%
+2. stradajeep.com.br – 21 – 320 – 30%
+3. chrysler.com.br – 16 – 199 – 22%
+4. grupovalence.com.br – 12 – 65 – 21%
+5. valenceseminovos.com.br – 13 – 268 – 21%
+""",
+    6: """Página 6:
+Tráfego com Marca:
+- Palavras-chave de marca: 13
+- Tráfego com marca: 2.400
+- Proporção: 64,28% branded / 35,72% não-branded
+
+Tráfego Pago:
+- Palavras-chave pagas:
+  1. "valence jeep" – Posição: 2 – Volume: 1.000 – CPC: R$3,51 – Tráfego: 32,50%
+  2. "jeep grand cherokee 2024" – Posição: 2 – Volume: 1.000 – CPC: R$2,92 – Tráfego: 32,50%
+  3. "valence jeep" – Posição: 4 – Volume: 1.000 – CPC: R$3,51 – Tráfego: 17,50%
+  4. "jeep carro valor" – Posição: 4 – Volume: 480 – CPC: R$0,82 – Tráfego: 7,50%
+  5. "jeep compass 1.3 série s 4xe auto 22/22" – Posição: 2 – Volume: 210 – CPC: R$0,00 – Tráfego: 5,00%
+
+Distribuição das Posições:
+- Top 3: 2 palavras
+- Posições 4-8: 4 palavras
+- Posições 9+: 0 palavras
+""",
+    7: """Página 7:
+Concorrentes Pagos:
+1. jeepsim.com.br – 1 palavra – 6 anúncios – Similaridade: 17%
+2. balilla.com.br – 1 – 8 – 14%
+3. jeepitaliana.com.br – 1 – 8 – 14%
+4. jeeplake.com.br – 1 – 8 – 14%
+5. jeeplelac.com.br – 2 – 52 – 6%
+
+Exemplos de Anúncios:
+- "Valence Jeep | Seu Jeep está na Valence" – https://www.valencejeep.com.br/jeep/valence
+- "Jeep Grand Cherokee – Veja Nossas Ofertas Especiais" – https://www.valencejeep.com.br/jeep/valence
+- "Comprar Jeep – Veja Nossas Ofertas Especiais" – https://www.valencejeep.com.br/jeep/valence
+""",
+    8: """Página 8:
+Backlinks - Total: 299
+
+Principais Backlinks:
+- http://valence.com.br/ → https://valencejeep.com.br/
+- http://valence.com.br/ → https://www.valencejeep.com.br/
+- https://www.trustfeed.com/jeep-dealership-valence-58414409
+- https://www.glassdoor.com/Reviews/valence-reviews
+
+Principais Anchors:
+- Âncora vazia – 13% (10 domínios, 33 backlinks)
+- "valence.com.br" – 8% (19 domínios, 21 backlinks)
+- "valencejeep.com.br" – 8% (18 domínios, 21 backlinks)
+- "internet valence.com.br" – 6% (1 domínio, 15 backlinks)
+- "ofertasvalencejeep.com.br" – 6% (15 domínios, 15 backlinks)
+
+Follow/Nofollow:
+- Follow: 229 backlinks (76,08%)
+- Nofollow: 72 backlinks (23,92%)
+
+Tipos de Backlinks:
+- Texto: 235 (74,07%)
+- Imagem: 64 (20,17%)
+
+Domínios Relevantes:
+- trustburn.com (18 backlinks), ofertasvalencejeep.com.br (17), autodromo.app (14), valence.com.br (14), valenceram.com.br (10)
+
+Páginas mais referenciadas:
+- https://valencejeep.com.br/ – 93 backlinks
+- https://www.valencejeep.com.br/ – 70
+- http://www.valencejeep.com.br/ – 37
+- http://valencejeep.com.br/ – 6
+- https://atendimento.valencejeep.com.br/ – 19

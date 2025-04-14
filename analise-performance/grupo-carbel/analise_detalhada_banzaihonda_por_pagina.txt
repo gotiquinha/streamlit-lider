@@ -1,0 +1,137 @@
+Página 1:
+- Relatório referente ao domínio: banzaihonda.com.br
+- Data de geração: 6 de abril de 2025
+- Fonte: SEMrush
+- Endereço da SEMrush: 800 Boylston Street, Suite 2475, Boston, MA 02199
+
+Página 2:
+Resumo da Busca Orgânica:
+- Tráfego estimado: 11.700 (aumento de 1%)
+- Posição no ranking da Semrush: 35.4k
+- Palavras-chave orgânicas: 1.300 (aumento de 1%)
+- Custo do tráfego: R$6.900 (aumento de 2%)
+
+Resumo da Busca Paga:
+- Tráfego estimado: 131 (queda de 32%)
+- Palavras-chave pagas: 4 (queda de 20%)
+- Custo do tráfego pago: R$105 (queda de 19%)
+
+Backlinks:
+- Total: 373
+- Domínios de referência: 133
+- IPs de referência: 154
+
+Página 3:
+Distribuição das Palavras-chave por País (Busca Orgânica):
+- Brasil: 91,28%
+- Outros: 8,72%
+
+Distribuição das Palavras-chave por País (Busca Paga):
+- Brasil: 57,14%
+- Mobile Brasil: 42,86%
+- Outros: 0%
+
+Gráfico de Tráfego Orgânico vs Pago:
+- Tráfego orgânico domina a maior parte do histórico
+- Tráfego pago aparece pontualmente
+
+Página 4:
+Principais Palavras-chave Orgânicas:
+1. "banzai contorno" – Posição: 1 – Volume: 1.300 – Tráfego: 8,92%
+2. "banzai" – Posição: 1 – Volume: 6.600 – Tráfego: 7,47%
+3. "banzai pampulha" – Posição: 1 – Volume: 1.000 – Tráfego: 6,86%
+4. "banzai honda contorno" – Posição: 1 – Volume: 1.000 – Tráfego: 6,86%
+5. "banzai seminovos" – Posição: 1 – Volume: 720 – Tráfego: 4,94%
+
+Distribuição das Posições:
+- Posições 1-3: 68
+- Posições 4-10: 95
+- Posições 11-20: 179
+- Posições 21-30: 152
+- Posições 31-40: 176
+- Posições 41-50: 132
+- Posições 51-100: 284
+
+Intenção das Palavras-chave:
+- Informacional: 493 palavras – 4.800 de tráfego (31,4%)
+- Navegacional: 404 palavras – 6.600 de tráfego (25,7%)
+- Comercial: 572 palavras – 6.700 de tráfego (36,4%)
+- Transacional: 103 palavras – 94 de tráfego (6,6%)
+
+Página 5:
+Concorrentes Orgânicos:
+1. saitama.com.br – 40 palavras em comum – 344 palavras-chave – Similaridade: 36%
+2. otobai.com.br – 39 palavras – 558 palavras-chave – 34%
+3. motobh.com.br – 42 palavras – 515 palavras-chave – 33%
+4. autojapan.com.br – 148 palavras – 3.500 palavras-chave – 32%
+5. hanbaimotos.com.br – 46 palavras – 599 palavras-chave – 32%
+
+Tráfego de Marca:
+- Palavras-chave de marca: 171
+- Tráfego com marca: 6.600
+- Proporção: 56,80% branded / 43,20% não-branded
+
+Página 6:
+Tráfego Pago Mensal (Abr/2024 a Mar/2025):
+- Variações mensais entre 0,38K e 0,72K visitas
+
+Principais Palavras-chave Pagas:
+1. "concessionária honda" – Posição: 4 – Volume: 18.100 – CPC: R$0,88 – Tráfego: 96,18%
+2. "banzai honda belo horizonte" – Posição: 2 – Volume: 260 – CPC: R$0,70 – Tráfego: 2,29%
+3. "autorizada honda bh" – Posição: 3 – Volume: 170 – CPC: R$0,93 – Tráfego: 0,76%
+4. "banzai honda belo horizonte" – Posição: 6 – Volume: 260 – CPC: R$0,70 – Tráfego: 0,76%
+
+Distribuição das Posições:
+- Posições 1-3: 2 palavras
+- Posições 4-8: 2 palavras
+
+Concorrentes Pagos:
+1. sakurabh.com.br – 1 palavra – 2 anúncios – Similaridade: 31%
+2. hondatakai.com.br – 1 palavra – 4 anúncios – 25%
+3. autojapan.com.br – 2 palavras – 33 anúncios – 9%
+4. benicar.com.br – 1 palavra – 31 anúncios – 5%
+5. floramotors.com.br – 1 palavra – 44 anúncios – 4%
+
+Página 7:
+Exemplos de Anúncios:
+1. "Concessionária Honda" – https://www.banzaihonda.com.br – Conquiste seu 0km. Conheça seu novo companheiro de aventuras.
+2. "Honda Banzai" – https://www.banzaihonda.com.br – Honda você compra melhor na Banzai. Condições imperdíveis. Agende agora.
+
+URLs anunciadas:
+- https://banzaihonda.com.br/lp/novos
+
+Página 8:
+Backlinks - Total: 373
+
+Exemplos de Backlinks:
+- https://grupocarbel.com.br/ -> https://banzaihonda.com.br/
+- https://linktr.ee/banzaihonda_bh -> https://banzaihonda.com.br/
+- https://banzaihonda.com.br/veiculo/hr-v
+- https://banzaihonda.com.br/novos/zr-v
+- https://banzaihonda.com.br/veiculo/civic-hibrido
+
+Principais Anchors:
+- banzaihonda.com.br – 16% (62 backlinks)
+- "banzai honda seminovos em belo horizonte" – 16% (60 backlinks)
+- banzaihonda – 14% (54 backlinks)
+- http://www.banzaihonda.com.br/ – 13% (48 backlinks)
+- "concessionária honda em belo horizonte | banzai honda" – 8% (29 backlinks)
+
+Follow/Nofollow:
+- Follow: 324 backlinks (86,17%)
+- Nofollow: 52 backlinks (13,83%)
+
+Tipos de Backlinks:
+- Texto: 236 (59,62%)
+- Imagem: 137 (34,61%)
+- Frame/Form: 0
+
+Domínios de Referência Relevantes:
+- siteoficial.com.br, xiuhui.net, justos.com.br, ahimsagram.org, officialsite.com
+
+Páginas mais referenciadas:
+- https://banzaihonda.com.br/ – 141 backlinks
+- http://www.banzaihonda.com.br/ – 79 backlinks
+- https://banzaihonda.com.br/servicos – 4 backlinks
+- https://www.banzaihonda.com.br/ – 3 backlinks
+- http://banzaihonda.com.br/ – 3 backlinks

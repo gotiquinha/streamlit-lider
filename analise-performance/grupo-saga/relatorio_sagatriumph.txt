@@ -1,0 +1,101 @@
+Página 1:
+- Relatório referente ao domínio: sagatriumph.com.br
+- Data de geração: 6 de abril de 2025
+- Fonte: SEMrush
+- Endereço: 800 Boylston Street, Suite 2475, Boston, MA 02199
+
+Página 2:
+Resumo da Busca Orgânica:
+- Tráfego estimado: 2.700 (aumento de 24%)
+- Posição no ranking da Semrush: 102.900
+- Palavras-chave orgânicas: 1.300 (aumento de 3%)
+- Custo do tráfego: R$777 (aumento de 45%)
+
+Resumo da Busca Paga:
+- Tráfego estimado: 0 (estável)
+- Palavras-chave pagas: 0 (estável)
+- Custo do tráfego pago: R$0
+
+Backlinks:
+- Total: 120
+- Domínios de referência: 93
+- IPs de referência: 98
+
+Página 3:
+Distribuição das Palavras-chave por País:
+- Brasil: 50,95%
+- Mobile Brasil: 4,02%
+- França: 2,80%
+- Outros: 7,72%
+
+Gráfico de Tráfego Orgânico vs Pago:
+- Tráfego orgânico com picos de até 10.000 visitas
+- Tráfego pago inexistente
+
+Página 4:
+Principais Palavras-chave Orgânicas:
+1. "scrambler 400x" – Volume: 9.900 – Tráfego: 14,82%
+2. "saga triumph" – Posição: 1 – Volume: 170 – Tráfego: 4,97%
+3. "moto triumph" – Volume: 14.800 – Tráfego: 4,86%
+4. "triumph saga" – Posição: 1 – Volume: 140 – Tráfego: 4,09%
+5. "triumph goiania" – Posição: 1 – Volume: 140 – Tráfego: 4,09%
+
+Distribuição das Posições:
+- Posições 1-3: 262
+- Posições 4-10: 180
+- Posições 11-20: 140
+- Posições 21-30: 100
+- Posições 31-40: 262
+- Posições 41-50: 322
+- Posições 51-100: 322
+
+Página 5:
+Palavras-chave por Intenção:
+- Informacional: 939 palavras – 2.200 de tráfego (61,9%)
+- Navegacional: 240 palavras – 846 de tráfego (15,8%)
+- Comercial: 161 palavras – 83 de tráfego (10,6%)
+- Transacional: 177 palavras – 279 de tráfego (11,7%)
+
+Principais Concorrentes Orgânicos:
+1. ofertastriumph.com.br – 160 palavras – 794 palavras-chave – Similaridade: 38%
+2. tripletriumph.com.br – 230 palavras – 2.100 palavras-chave – Similaridade: 35%
+3. triumphedisa.com.br – 82 palavras – 455 palavras-chave – Similaridade: 28%
+4. triumphosten.com.br – 80 palavras – 391 palavras-chave – Similaridade: 28%
+5. triumphrio.com.br – 82 palavras – 530 palavras-chave – Similaridade: 26%
+
+Página 6:
+Tráfego com Marca:
+- Palavras-chave de marca: 15
+- Tráfego com marca: 373
+- Proporção: 13,65% branded / 86,35% não-branded
+
+Página 7:
+Exemplos de Backlinks:
+- https://www.gruposaga.com.br/ → https://www.sagatriumph.com.br/
+- https://4.bing.com/images/search → https://www.sagatriumph.com.br/blog/triumph-street-triple-765-moto2--unidades-limitadas-e-alta-tecnologia
+- https://akam.bing.com/images/search → https://www.sagatriumph.com.br/blog/triumph-street-triple-765--lancamento-previsto-para-o-primeiro-semestre-no-brasil
+
+Principais Anchors:
+- "sagatriumph.com.br" – 74% (72 domínios, 90 backlinks)
+- "www.sagatriumph.com.br" – 10% (12 domínios, 12 backlinks)
+- "triumph" – 3% (2 domínios, 4 backlinks)
+- Âncora vazia – 2% (1 domínio, 2 backlinks)
+
+Follow/Nofollow:
+- Follow: 99 (82,50%)
+- Nofollow: 21 (17,50%)
+
+Tipos de Backlinks:
+- Texto: 119 (91,51%)
+- Imagem: 1 (2,83%)
+- Frame/Form: 0
+
+Domínios Relevantes:
+- bing.com (6), nlog.top (4), revistazelo.com.br (4), bing.net (3), gruposaga.com.br (3)
+
+Páginas Mais Referenciadas:
+- https://sagatriumph.com.br/ – 47 backlinks
+- https://www.sagatriumph.com.br/blog/triumph-street-triple-765-moto2--unidades-limitadas-e-alta-tecnologia – 30 backlinks
+- https://www.sagatriumph.com.br/ – 17 backlinks
+- https://www.sagatriumph.com.br/blog/triumph-street-triple-765--lancamento-previsto-para-o-primeiro-semestre-no-brasil – 16 backlinks
+- https://www.sagatriumph.com.br/blog/triumph-speed-twin--mais-potente-e-elegante – 4 backlinks

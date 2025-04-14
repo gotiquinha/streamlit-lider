@@ -1,0 +1,124 @@
+Página 1:
+- Relatório referente ao domínio: stradaram.com.br
+- Data de geração: 6 de abril de 2025
+- Fonte: SEMrush
+- Endereço: 800 Boylston Street, Suite 2475, Boston, MA 02199
+
+Página 2:
+Resumo da Busca Orgânica:
+- Tráfego estimado: 263 (queda de 27%)
+- Posição no ranking da Semrush: 428.1k
+- Palavras-chave orgânicas: 298 (estável)
+- Custo do tráfego: R$660 (aumento de 95%)
+
+Resumo da Busca Paga:
+- Tráfego estimado: 43
+- Palavras-chave pagas: 3
+- Custo do tráfego pago: R$82
+
+Backlinks:
+- Total: 18
+- Domínios de referência: 10
+- IPs de referência: 10
+
+Página 3:
+Distribuição das Palavras-chave por País:
+- Brasil: 87,91%
+- EUA: 7,08%
+- Outros: 5,01%
+
+Gráfico de Tráfego Orgânico vs Pago:
+- Tráfego orgânico e pago flutuam abaixo de 2.000 visitas no histórico total
+
+Página 4:
+Principais Palavras-chave Orgânicas:
+1. "consorcio ram como funciona" – Posição: 260 – Tráfego: 19,01%
+2. "consorcio ram" – Posição: 3 – Volume: 480 – Tráfego: 14,82%
+3. "consórcio ram" – Posição: 4 – Volume: 390 – Tráfego: 6,46%
+4. "ram bh" – Posição: 1 – Volume: 110 – Tráfego: 5,32%
+5. "concessionária ram em bh" – Posição: 1 – Volume: 110 – Tráfego: 5,32%
+
+Distribuição das Posições:
+- Posições 1-3: 34
+- Posições 4-10: 72
+- Posições 11-20: 67
+- Posições 21-30: 28
+- Posições 31-40: 19
+- Posições 41-50: 57
+- Posições 51-100: 14
+
+Página 5:
+Palavras-chave por Intenção:
+- Informacional: 202 palavras – 166 de tráfego (58,4%)
+- Navegacional: 56 palavras – 54 de tráfego (16,2%)
+- Comercial: 72 palavras – 58 de tráfego (20,8%)
+- Transacional: 16 palavras – 1 de tráfego (4,6%)
+
+Concorrentes Orgânicos:
+1. ramwayoficial.com.br – 24 palavras – 269 palavras-chave – Similaridade: 31%
+2. consorcioram.com.br – 17 palavras – 152 palavras-chave – 28%
+3. ramdinisa.com.br – 25 palavras – 215 palavras-chave – 24%
+4. valenceram.com.br – 10 palavras – 44 palavras-chave – 23%
+5. vitoriamotorsram.com.br – 14 palavras – 106 palavras-chave – 22%
+
+Página 6:
+Tráfego com Marca:
+- Palavras-chave de marca: 4
+- Tráfego com marca: 18
+- Proporção: 6,84% branded / 93,16% não-branded
+
+Gráfico de Tráfego Pago:
+- Abril/2024 a Março/2025: variação mensal de 0,10 até 0,79 mil visitas
+
+Palavras-chave Pagas:
+1. "ram 1500 preço" – Posição: 6 – Volume: 5.400 – CPC: R$1,23 – Tráfego: 62,79%
+2. "rampege" – Posição: 5 – Volume: 2.400 – CPC: R$4,03 – Tráfego: 27,90%
+3. "valor da ram rampage" – Posição: 3 – Volume: 480 – CPC: R$1,93 – Tráfego: 9,30%
+
+Concorrentes Pagos:
+1. ramdahrujcampinas.com.br – 1 palavra – 5 anúncios – Similaridade: 25%
+
+Página 7:
+Anúncios:
+1. "Concessionária RAM em BH" – https://www.stradaram.com.br
+   Strada Ram – Venda Direta com preços Especiais. Faça uma Cotação. Modelos a pronta Entrega.
+
+2. "Concessionária RAM em BH – Conheça sua Nova RAM" – https://www.stradaram.com.br
+   Venda Direta com preços Especiais. Modelos a pronta entrega com condições exclusivas.
+
+3. "Concessionária RAM em BH" – https://www.stradaram.com.br
+   Picape RAM é na Strada – Modelos a pronta entrega. Faça uma cotação.
+
+Landing pages:
+- https://stradaram.com.br/lp
+
+Página 8:
+Backlinks - Total: 18
+
+Exemplos de Backlinks:
+- https://grupocarbel.com.br/ -> https://stradaram.com.br/
+- https://www.grupocarbel.com.br/ -> https://stradaram.com.br/
+- https://grupocarbel.com.br/empresas -> https://stradaram.com.br/
+- https://justos.com.br/concessionarias/belo-horizonte/fernao-dias/... -> https://stradaram.com.br/
+
+Principais Anchors:
+- "logo strada ram", "ram", "strada ram", "ver site", "stradaram.com.br" – todos com 11% cada (2 backlinks por anchor)
+
+Follow/Nofollow:
+- Follow: 13 backlinks (72,22%)
+- Nofollow: 5 backlinks (27,78%)
+
+Tipos de Backlinks:
+- Texto: 10 (52,36%)
+- Imagem: 8 (41,88%)
+- Frame/Form: 0
+
+Domínios de Referência Relevantes:
+- grupocarbel.com.br, consorciocarbel.com.br, webwiki.pt, carbel.app, cidadeconecta.com
+
+Páginas Mais Referenciadas:
+- https://stradaram.com.br/ – 17 backlinks
+- https://stradaram.com.br/servicos – 2 backlinks
+- https://stradaram.com.br/utm_source=autoarremate – 1 backlink
+- https://stradaram.com.br/404 – 0
+- https://stradaram.com.br/comunicados – 0

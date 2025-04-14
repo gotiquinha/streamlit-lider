@@ -1,0 +1,130 @@
+Página 1:
+- Relatório referente ao domínio: hyundaibarigui.com.br
+- Data de geração: 7 de abril de 2025
+- Fonte: SEMrush
+- Endereço da SEMrush: 800 Boylston Street, Suite 2475, Boston, MA 02199
+
+Página 2:
+Resumo da Busca Orgânica:
+- Tráfego estimado: 6.500 (aumento de 7%)
+- Posição no ranking da Semrush: 55.0k
+- Palavras-chave orgânicas: 679 (aumento de 4%)
+- Custo do tráfego: R$20.000 (aumento de 4%)
+
+Resumo da Busca Paga:
+- Tráfego estimado: 37 (aumento de 100%)
+- Palavras-chave pagas: 2 (aumento de 100%)
+- Custo do tráfego pago: R$88 (aumento de 100%)
+
+Backlinks:
+- Total: 950
+- Domínios de referência: 79
+- IPs de referência: 74
+
+Página 3:
+Distribuição das Palavras-chave por País (Busca Orgânica):
+- Brasil: 87,84%
+- Mobile Brasil: 4,27%
+- Outros: 7,89%
+
+Distribuição das Palavras-chave por País (Busca Paga):
+- Brasil: 50%
+- Mobile Brasil: 50%
+- Outros: 0%
+
+Gráfico de Tráfego Orgânico vs Pago (Jan/2012 a Jan/2026):
+- Tráfego orgânico com picos em torno de 40.000
+- Tráfego pago residual
+
+Página 4:
+Principais Palavras-chave Orgânicas:
+1. "hyundai joinville" – Posição: 1 – Volume: 720 – Tráfego: 8,88%
+2. "hyundai blumenau" – Posição: 1 – Volume: 590 – Tráfego: 7,28%
+3. "hyundai ponta grossa" – Posição não especificada – Volume: 480 – Tráfego: 5,92%
+4. "hyundai em blumenau" – Posição: 1 – Volume: 480 – Tráfego: 5,92%
+5. "hb20" – Posição: 26 – Volume: 246.000 – Tráfego: 5,69%
+
+Distribuição das Posições:
+- Posições 1-3: 45 palavras
+- Posições 4-10: 60 palavras
+- Posições 11-20: 125 palavras
+- Posições 21-30: 73 palavras
+- Posições 31-40: 79 palavras
+- Posições 41-50: 81 palavras
+- Posições 51-100: 153 palavras
+
+Intenção das Palavras-chave:
+- Informacional: 266 palavras – 1.500 de tráfego
+- Navegacional: 255 palavras – 2.400 de tráfego
+- Comercial: 237 palavras – 1.900 de tráfego
+- Transacional: 95 palavras – 1.300 de tráfego
+
+Página 5:
+Principais Concorrentes Orgânicos:
+1. grupobarigui.com.br – 64 palavras em comum – 1.200 palavras-chave – Similaridade: 26%
+2. hyundaisevec.com.br – 38 palavras – 398 palavras-chave – 19%
+3. barigui.online – 15 palavras – 95 palavras-chave – 18%
+4. bariguiseminovos.com.br – 60 palavras – 27.700 palavras-chave – 17%
+5. geracaohyundaihmb.com.br – 68 palavras – 970 palavras-chave – 17%
+
+Tráfego de Marca:
+- Palavras-chave de marca: 78
+- Tráfego com marca: 4.700
+- Proporção: 72,77% branded / 27,23% não-branded
+
+Página 6:
+Tráfego Pago Mensal (Abr/2024 a Mar/2025):
+- Oscilações entre 0,71 e 0,84 mil visitas mensais
+
+Principais Palavras-chave Pagas:
+1. "concessionária hyundai" – Posição: 7 – Volume: 5.400 – CPC: R$2,69 – Tráfego: 56,75%
+2. "preço do creta da hyundai" – Posição: 4 – Volume: 2.400 – CPC: R$2,34 – Tráfego: 43,24%
+
+Distribuição das Posições:
+- Posições 1-3: 0 palavras
+- Posições 4-8: 2 palavras
+
+Concorrentes Pagos:
+1. umuaramaseminovos.com.br – 1 palavra em comum – Similaridade: 13%
+2. nasahyundai.com.br – 1 palavra – 3%
+
+Página 7:
+Exemplos de Anúncios:
+1. "Concessionária Hyundai" – Modelos 2024, 0km – https://lp.hyundaibarigui.com.br
+2. "Confira as Ofertas e Modelos" – Novo Creta 2025 – https://lp.hyundaibarigui.com.br/modelos
+3. "Hyundai HB20" – Tecnologia, design e 5 anos de garantia – https://lp.hyundaibarigui.com.br/modelos
+
+Página 8:
+Backlinks - Total: 950
+
+Backlinks listados:
+- https://www.grupobarigui.com.br/ -> https://www.hyundaibarigui.com.br/
+- https://www.bariguiimports.com.br/ -> https://www.hyundaibarigui.com.br/
+- https://justos.com.br/concessionarias/balneario-camboriu/jardim-iate-clube/... -> https://www.hyundaibarigui.com.br/
+- http://www.hyundaibarigui.com.br/
+- https://lp.hyundaibarigui.com.br/hb20
+
+Anchors:
+- Âncora vazia – 91% (843 backlinks)
+- hyundaibarigui.com.br – 7% (65 backlinks)
+- http://www.hyundaibarigui.com.br/ – 1%
+- bariguiimports.com.br – 1%
+- https://www.bariguiimports.com.br/ – 0,3%
+
+Follow/Nofollow:
+- Follow: 901 (94,84%)
+- Nofollow: 49 (5,16%)
+
+Tipos de Backlinks:
+- Texto: 140
+- Imagem: 810
+- Frame/Form: 0
+
+Domínios de Referência Relevantes:
+- barigui.online, bariguiimports.com.br, trustfeed.com, justos.com.br, global-rank.pages.dev
+
+Páginas mais referenciadas:
+- https://hyundaibarigui.com.br/ – 56 backlinks
+- https://www.hyundaibarigui.com.br/ – 47 backlinks
+- http://www.hyundaibarigui.com.br/ – 22 backlinks
+- https://lp.hyundaibarigui.com.br/hb20 – 4 backlinks

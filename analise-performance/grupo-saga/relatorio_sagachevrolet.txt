@@ -1,0 +1,110 @@
+Página 1:
+- Relatório referente ao domínio: sagachevrolet.com.br
+- Data de geração: 6 de abril de 2025
+- Fonte: SEMrush
+- Endereço: 800 Boylston Street, Suite 2475, Boston, MA 02199
+
+Página 2:
+Resumo da Busca Orgânica:
+- Tráfego estimado: 33.500 (queda de 4%)
+- Posição no ranking da Semrush: 15.400
+- Palavras-chave orgânicas: 7.800 (queda de 1%)
+- Custo do tráfego: R$42.500 (queda de 3%)
+
+Resumo da Busca Paga:
+- Tráfego estimado: 0 (estável)
+- Palavras-chave pagas: 1 (estável)
+- Custo do tráfego pago: R$0
+
+Backlinks:
+- Total: 250
+- Domínios de referência: 111
+- IPs de referência: 110
+
+Página 3:
+Distribuição das Palavras-chave por País:
+- Brasil: 88,77%
+- Mobile Brasil: 5,39%
+- Outros: 5,84%
+
+Gráfico de Tráfego Orgânico vs Pago:
+- Tráfego orgânico com picos até 50.000 visitas
+- Tráfego pago praticamente nulo
+
+Página 4:
+Principais Palavras-chave Orgânicas:
+1. "gramarca cuiaba" – Posição: 1 – Volume: 1.000 – Tráfego: 2,38%
+2. "tudo chevrolet mutir" – Posição: 1 – Volume: 880 – Tráfego: 2,10%
+3. "gramarca vg" – Posição: 1 – Volume: 590 – Tráfego: 1,40%
+4. "gramarca cuiabá" – Posição: 1 – Volume: 590 – Tráfego: 1,40%
+5. "corsa 2025" – Posição: 1 – Volume: 1.900 – Tráfego: 1,40%
+
+Distribuição das Posições:
+- Posições 1-3: 229
+- Posições 4-10: 551
+- Posições 11-20: 860
+- Posições 21-30: 1.100
+- Posições 31-40: 906
+- Posições 41-50: 589
+- Posições 51-100: 2.300
+
+Página 5:
+Palavras-chave por Intenção:
+- Informacional: 6.600 palavras – 26.400 de tráfego (74,9%)
+- Navegacional: 560 palavras – 4.300 de tráfego (6,3%)
+- Comercial: 765 palavras – 3.200 de tráfego (8,7%)
+- Transacional: 891 palavras – 4.100 de tráfego (10,1%)
+
+Principais Concorrentes Orgânicos:
+1. chevrolet.com.br – 2.000 palavras – 171.800 palavras-chave – Similaridade: 19%
+2. chevroletnova.com.br – 674 palavras – 85.300 palavras-chave – Similaridade: 11%
+3. orca.com.br – 221 palavras – 5.200 palavras-chave – Similaridade: 8%
+4. carrera.com.br – 611 palavras – 72.300 palavras-chave – Similaridade: 6%
+5. granlestegm.com.br – 132 palavras – 1.900 palavras-chave – Similaridade: 6%
+
+Página 6:
+Tráfego com Marca:
+- Palavras-chave de marca: 64
+- Tráfego com marca: 5.200
+- Proporção: 15,43% branded / 84,57% não-branded
+
+Gráfico de Tráfego Pago:
+- Abril/2024 a Março/2025: tráfego entre 0,14 e 0,26 mil visitas por mês
+
+Página 7:
+Palavras-chave Pagas:
+1. "chevrolet produtor rural" – Posição: 4 – Volume: 140 – CPC: R$7,71 – Tráfego: 0,00%
+
+Exemplo de Anúncio:
+- "SAGA Vendas Diretas – Ofertas para P. Rurais" – https://www.sagachevrolet.com.br/vendas-especiais/vendas-produtores-rurais
+
+Página 8:
+Exemplos de Backlinks:
+- https://www.gruposaga.com.br/ → https://www.sagachevrolet.com.br/
+- https://www.caceresnoticias.com.br/ → https://www.sagachevrolet.com.br/mt-gramarca-chevrolet-caceres
+
+Principais Anchors:
+- "sagachevrolet.com.br" – 36% (67 domínios, 90 backlinks)
+- URL longa da página de Cáceres – 15% (1 domínio, 38 backlinks)
+- "gramarca cáceres – 1200" – 5% (1 domínio, 12 backlinks)
+- "gramarca cáceres – 285" – 5% (1 domínio, 12 backlinks)
+- "gramarca cáceres – 860 2" – 5% (1 domínio, 12 backlinks)
+
+Follow/Nofollow:
+- Follow: 228 (91,20%)
+- Nofollow: 22 (8,80%)
+
+Tipos de Backlinks:
+- Texto: 201 (75,76%)
+- Imagem: 49 (18,47%)
+- Frame/Form: 0
+
+Domínios Relevantes:
+- justos.com.br (48), caceresnoticias.com.br (36), gruposaga.com.br (10), berlee.cloud (8), sagajeep.com.br (6)
+
+Páginas Mais Referenciadas:
+- https://sagachevrolet.com.br/ – 44 backlinks
+- https://www.sagachevrolet.com.br/blog/nova-chevrolet-montana-2023-mostra-sua-grade-e-tera-frente-de-blazer – 18 backlinks
+- https://www.sagachevrolet.com.br/ – 15 backlinks
+- https://www.sagachevrolet.com.br/blog/chevrolet-s10-2024--atualizac%C3%B5es-e-novidades-sobre-a-picape-media-mais-amada-do-brasil – 8 backlinks
+- https://www.sagachevrolet.com.br/blog/caminhonete-s10-conheca-tudo.html – 6 backlinks

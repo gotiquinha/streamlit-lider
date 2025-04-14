@@ -1,0 +1,116 @@
+
+    1: """Página 1:
+- Relatório referente ao domínio: rmp.com.br (Real Moto Peças)
+- Data de geração: 7 de abril de 2025
+- Fonte: SEMrush
+- Endereço: 800 Boylston Street, Suite 2475, Boston, MA 02199
+""",
+    2: """Página 2:
+Resumo da Busca Orgânica:
+- Tráfego estimado: 12.600 (↑ 4%)
+- Posição no ranking da Semrush: 33.300
+- Palavras-chave orgânicas: 1.900 (↑ 8%)
+- Custo do tráfego: R$8.600 (↑ 7%)
+
+Resumo da Busca Paga:
+- Tráfego estimado: 0
+- Palavras-chave pagas: 0
+- Custo do tráfego pago: R$0
+
+Backlinks:
+- Total: 804
+- Domínios de referência: 158
+- IPs de referência: 172
+""",
+    3: """Página 3:
+Distribuição das Palavras-chave por País:
+- Brasil: 82,59%
+- Mobile Brasil: 3,03%
+- Portugal: 2,91%
+- EUA: 2,91%
+- Outros: 8,54%
+
+Gráfico de Tráfego Orgânico vs Pago:
+- Tráfego orgânico com picos próximos a 40.000 desde 2012
+- Tráfego pago: inexistente
+""",
+    4: """Página 4:
+Principais Palavras-chave Orgânicas:
+1. "real moto peças" – Posição: 1 – Volume: 5.400 – Tráfego: 34,38%
+2. "moto peças" – Posição: 8 – Volume: 33.100 – Tráfego: 6,32%
+3. "real moto" – Posição: 1 – Volume: 880 – Tráfego: 5,60%
+4. "real moto pecas" – Posição: 1 – Volume: 720 – Tráfego: 4,58%
+5. "motopeças" – Posição: 3 – Volume: 4.400 – Tráfego: 2,86%
+
+Distribuição das Posições:
+- Posições 1-3: 343
+- Posições 4-10: 172
+- Posições 11-20: 160
+- Posições 21-30: 196
+- Posições 31-40: 211
+- Posições 41-50: 229
+- Posições 51-100: 879
+""",
+    5: """Página 5:
+Palavras-chave por Intenção:
+- Informacional: 444 palavras – 975 tráfego (20,7%)
+- Navegacional: 235 palavras – 7.200 tráfego (10,9%)
+- Comercial: 1.400 palavras – 5.300 tráfego (63,0%)
+- Transacional: 117 palavras – 185 tráfego (5,4%)
+
+Principais Concorrentes Orgânicos:
+1. greal.com.br – 33 palavras – 277 palavras-chave – Similaridade: 26%
+2. mto.com.br – 66 – 1.700 – 20%
+3. montanna.com.br – 41 – 368 – 17%
+4. totalmoto.com.br – 45 – 642 – 16%
+5. worksmotos.com.br – 40 – 493 – 16%
+""",
+    6: """Página 6:
+Tráfego com Marca:
+- Palavras-chave de marca: 42
+- Tráfego com marca: 6.700
+- Proporção: 53,46% branded / 46,54% não-branded
+
+Gráfico de Tráfego Pago:
+- Nenhuma palavra-chave paga ou tráfego pago registrado entre abril/2024 e março/2025
+
+Anúncios e Concorrentes Pagos:
+- Nenhum anúncio identificado
+- Nenhum concorrente listado
+""",
+    7: """Página 7:
+Backlinks - Total: 804
+
+Exemplos de Backlinks:
+- http://www.transexpresstransportes.com.br/
+- http://www.rmp.com.br/v1
+- https://br.indeed.com/cmp/Grupo-Real
+- http://www.rmp.com.br/
+- https://br.indeed.com/cmp/Grupo-Real/about
+- https://br.indeed.com/cmp/Real-Moto-Pe%C3%A7as
+- https://loja.rmp.com.br/radiador-aluminio-expandido-522234-valeo.html
+
+Principais Anchors:
+- "rmp – acessórios" – 16% (2 domínios, 124 backlinks)
+- "rmp – autopeças" – 16% (2 domínios, 124 backlinks)
+- "rmp.com.br" – 4% (25 domínios, 32 backlinks)
+- "internet rmp.com.br" – 4% (1 domínio, 31 backlinks)
+- Âncora vazia – 3% (6 domínios, 27 backlinks)
+
+Follow/Nofollow:
+- Follow: 748 backlinks (93,03%)
+- Nofollow: 56 backlinks (6,97%)
+
+Tipos de Backlinks:
+- Texto: 404 (47,35%)
+- Imagem: 400 (46,88%)
+
+Domínios Relevantes:
+- disap.com.br (246 backlinks), trustburn.com (38), himasys.com (32), xiuhui.net (24), champoussinrentals.com (16)
+
+Páginas mais referenciadas:
+- https://rmp.com.br/ – 27 backlinks
+- http://www.rmp.com.br/ – 39
+- http://rmp.com.br/ – 82
+- http://www.rmp.com.br/image?entity=default – 9
+- https://loja.rmp.com.br/ – 235

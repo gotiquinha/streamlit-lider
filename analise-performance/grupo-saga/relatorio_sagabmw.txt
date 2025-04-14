@@ -1,0 +1,109 @@
+Página 1:
+- Relatório referente ao domínio: sagabmw.com.br
+- Data de geração: 6 de abril de 2025
+- Fonte: SEMrush
+- Endereço: 800 Boylston Street, Suite 2475, Boston, MA 02199
+
+Página 2:
+Resumo da Busca Orgânica:
+- Tráfego estimado: 4.900 (aumento de 14%)
+- Posição no ranking da Semrush: 67.600
+- Palavras-chave orgânicas: 903 (queda de 1%)
+- Custo do tráfego: R$2.400 (aumento de 5%)
+
+Resumo da Busca Paga:
+- Tráfego estimado: 0 (estável)
+- Palavras-chave pagas: 0 (estável)
+- Custo do tráfego pago: R$0
+
+Backlinks:
+- Total: 50
+- Domínios de referência: 32
+- IPs de referência: 33
+
+Página 3:
+Distribuição das Palavras-chave por País:
+- Brasil: 60,85%
+- Mobile Brasil: 6,40%
+- Índia: 2,47%
+- Turquia: 2,47%
+- Outros: 8,02%
+
+Gráfico de Tráfego Orgânico vs Pago:
+- Tráfego orgânico com picos até 20.000 visitas
+- Tráfego pago inexistente
+
+Página 4:
+Principais Palavras-chave Orgânicas:
+1. "bmw x5" – Posição: 5 – Volume: 27.100 – Tráfego: 13,21%
+2. "bmw coupé série 3" – Volume: 2.400 – Tráfego: 6,48%
+3. "saga bmw" – Volume: 390 – Tráfego: 6,34%
+4. "bmw goiania" – Posição: 1 – Volume: 390 – Tráfego: 6,34%
+5. "bmw x1" – Posição: 14 – Volume: 90.500 – Tráfego: 5,50%
+
+Distribuição das Posições:
+- Posições 1-3: 31
+- Posições 4-10: 127
+- Posições 11-20: 167
+- Posições 21-30: 130
+- Posições 31-40: 127
+- Posições 41-50: 72
+- Posições 51-100: 164
+
+Página 5:
+Palavras-chave por Intenção:
+- Informacional: 741 palavras – 4.100 de tráfego (71,2%)
+- Navegacional: 77 palavras – 756 de tráfego (7,4%)
+- Comercial: 118 palavras – 749 de tráfego (11,3%)
+- Transacional: 105 palavras – 1.400 de tráfego (10,1%)
+
+Principais Concorrentes Orgânicos:
+1. originalbmw.com.br – 102 palavras – 1.000 palavras-chave – Similaridade: 20%
+2. bmwtopcar.com.br – 42 palavras – 632 palavras-chave – Similaridade: 11%
+3. bmwrio.com.br – 37 palavras – 1.000 palavras-chave – Similaridade: 10%
+4. bmwagulhasnegras.com.br – 57 palavras – 1.800 palavras-chave – Similaridade: 8%
+5. ravieramotors.com.br – 23 palavras – 205 palavras-chave – Similaridade: 8%
+
+Página 6:
+Tráfego com Marca:
+- Palavras-chave de marca: 12
+- Tráfego com marca: 740
+- Proporção: 15,04% branded / 84,96% não-branded
+
+Gráfico de Tráfego Pago:
+- Abril/2024 a Março/2025: variação leve entre 0,09 e 0,34 mil visitas mensais
+
+Página 7:
+Exemplos de Backlinks:
+- https://www.gruposaga.com.br/ → https://www.sagabmw.com.br/
+- https://www.icarros.com.br/ache/estoque.jsp?id=2253032 → http://sagabmw.com.br/
+- https://www.bmw-motorrad.com.br/saga-saoluis/pt/home.html → https://www.sagabmw.com.br/ma-saga-bmw-sao-luis
+- https://www.fastbase.com/countryindex/Brazil/M/MINI-dealer → http://www.sagabmw.com.br/
+- https://www.gruposaga.com.br/contato → https://sagabmw.com.br/bmw/concessionaria-go-saga-bmw-goiania
+
+Principais Anchors:
+- "sagabmw.com.br" – 36% (17 domínios, 18 backlinks)
+- Âncora vazia – 12% (3 domínios, 6 backlinks)
+- "aqui" – 8% (1 domínio, 4 backlinks)
+- "sagabmw" – 8% (1 domínio, 4 backlinks)
+- "vá para o site" – 6% (1 domínio, 3 backlinks)
+
+Follow/Nofollow:
+- Follow: 29 (58%)
+- Nofollow: 21 (42%)
+
+Tipos de Backlinks:
+- Texto: 47 (90,33%)
+- Imagem: 2 (3,84%)
+- Frame: 1 (2,91%)
+- Form: 0
+
+Domínios Relevantes:
+- trustfeed.com (5), sagamini.com.br (4), websitescrawl.com (4), avaliacoesbrasil.com (3), tntcode.com (3)
+
+Páginas Mais Referenciadas:
+- http://www.sagabmw.com.br/ – 9 backlinks
+- https://sagabmw.com.br/ – 7 backlinks
+- http://sagabmw.com.br/ – 7 backlinks
+- https://www.sagabmw.com.br/ – 4 backlinks
+- https://sagabmw.com.br/bmw/concessionaria-go-saga-bmw-goiania – 2 backlinks

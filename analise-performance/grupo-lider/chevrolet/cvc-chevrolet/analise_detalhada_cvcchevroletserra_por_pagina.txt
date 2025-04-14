@@ -1,0 +1,133 @@
+Página 1:
+- Relatório referente ao domínio: cvcchevroletserra.com.br
+- Data de geração: 4 de abril de 2025
+- Fonte: SEMrush
+- Endereço: 800 Boylston Street, Suite 2475, Boston, MA 02199
+
+Página 2:
+Resumo da Busca Orgânica:
+- Tráfego estimado: 4.500 (↑ 1%)
+- Posição no ranking da Semrush: 73.500
+- Palavras-chave orgânicas: 419 (↑ 1%)
+- Custo do tráfego: R$4.700 (↑ 2%)
+
+Resumo da Busca Paga:
+- Tráfego estimado: 203
+- Palavras-chave pagas: 3
+- Custo do tráfego pago: R$544
+
+Backlinks:
+- Total: 350
+- Domínios de referência: 24
+- IPs de referência: 33
+
+Página 3:
+Distribuição das Palavras-chave por País:
+- Orgânica:
+  - Brasil: 85,69%
+  - Mobile Brasil: 6,13%
+  - Outros: 8,18%
+
+- Paga:
+  - Brasil: 60%
+  - Mobile Brasil: 40%
+  - Outros: 0%
+
+Gráfico de Tráfego Orgânico vs Pago:
+- Tráfego orgânico oscila entre 0 e 10.000
+- Tráfego pago entre 0,59K e 0,91K mensalmente
+
+Página 4:
+Principais Palavras-chave Orgânicas:
+1. "cvc serra" – Posição: 1 – Volume: 1.000 – Tráfego: 17,96%
+2. "cvc da serra" – Posição: 1 – Volume: 1.000 – Tráfego: 17,96%
+3. "cvc chevrolet serra" – Posição: 1 – Volume: 880 – Tráfego: 15,81%
+4. "chevrolet cvc serra" – Posição: 1 – Volume: 880 – Tráfego: 15,81%
+5. "cvc veículos serra" – Posição: 1 – Volume: 480 – Tráfego: 8,62%
+
+Distribuição das Posições:
+- Posições 1-3: 145
+- Posições 4-10: 41
+- Posições 11-20: 36
+- Posições 21-30: 28
+- Posições 31-40: 39
+- Posições 41-50: 36
+- Posições 51-100: 94
+
+Página 5:
+Palavras-chave por Intenção:
+- Informacional: 250 palavras – 2.400 tráfego (43,1%)
+- Navegacional: 133 palavras – 4.000 tráfego (22,9%)
+- Comercial: 125 palavras – 2.000 tráfego (21,6%)
+- Transacional: 72 palavras – 104 tráfego (12,4%)
+
+Principais Concorrentes Orgânicos:
+1. cvcchevroletvitoria.com.br – 37 palavras – 1.000 palavras-chave – Similaridade: 56%
+2. cvcchevroletcolatina.com.br – 18 – 112 – 37%
+3. cvcchevroletnovavenecia.com.br – 16 – 94 – 30%
+4. cvcchevroletcachoeiro.com.br – 34 – 984 – 27%
+5. cvcchevroletguacui.com.br – 9 – 73 – 19%
+
+Página 6:
+Tráfego com Marca:
+- Palavras-chave de marca: 32
+- Tráfego com marca: 4.000
+- Proporção: 90,25% branded / 9,75% não-branded
+
+Palavras-chave Pagas:
+1. "chevrolet equinox" – Posição: 2 – Volume: 14.800 – CPC: R$2,72 – Tráfego: 94,58%
+2. "trax chevrolet" – Posição: 2 – Volume: 880 – CPC: R$2,44 – Tráfego: 5,41%
+3. "qual o valor da s10 2015" – Posição: 4 – Volume: 90 – CPC: R$0,28 – Tráfego: 0%
+
+Página 7:
+Concorrentes Pagos:
+1. adarachevrolettrevo.com.br – 1 palavra – 6 anúncios – Similaridade: 22%
+
+Exemplos de Anúncios:
+1. Chevrolet Equinox – https://www.cvcchevroletserra.com.br/suvs/chevrolet-equinox
+   Um SUV surpreendente no visual, espaçoso, com motor turbo de 172cv.
+
+2. Chevrolet Tracker – https://www.cvcchevroletserra.com.br/suvs/chevrolet-tracker
+   Seis airbags de série. Toda segurança para toda a família.
+
+3. S10 Cabine Dupla – https://www.cvcchevroletserra.com.br
+   Picape da Chevrolet que supera obstáculos com força e robustez.
+
+Página 8:
+Backlinks - Total: 350
+
+Principais Backlinks:
+- https://justos.com.br/concessionarias/aracruz/coqueiral/
+- https://justos.com.br/concessionarias/serra/alterozas/
+- https://justos.com.br/concessionarias/serra/barcelona/
+- https://justos.com.br/concessionarias/serra/castelandia/
+- https://justos.com.br/concessionarias/serra/civit-i/
+
+Principais Anchors:
+- "acessar site" – 85% (299 backlinks de 1 domínio)
+- "https://www.cvcchevroletserra.com.br/?cid=meu_negocio-ddp-317801" – 7% (23 backlinks de 1 domínio)
+- "cvcchevroletserra.com.br" – 5% (18 backlinks de 17 domínios)
+- Âncora vazia – 1% (4 backlinks de 2 domínios)
+
+Follow/Nofollow:
+- Follow: 40 backlinks (11,43%)
+- Nofollow: 310 backlinks (88,57%)
+
+Tipos de Backlinks:
+- Texto: 349 (91,52%)
+- Imagem: 1 (2,83%)
+- Frame/Form: 0
+
+Domínios Relevantes:
+- concessionariaschevrolet.com.br (299 backlinks)
+- justos.com.br (23)
+- trustfeed.com (4)
+- seoflx.net (2)
+- tntcode.com (2)
+
+Páginas mais referenciadas:
+- https://cvcchevroletserra.com.br/ – 303 backlinks
+- https://www.cvcchevroletserra.com.br/?cid=meu_negocio-ddp-317801 – 23
+- https://www.cvcchevroletserra.com.br/?cid=meu_negocio-organic-ddp-198340 – 4
+- https://cvcchevroletserra.com.br/trabalhe-conosco – 1
+- https://cvcchevroletserra.com.br/?evar25=ch_br_t1_LAD – 1

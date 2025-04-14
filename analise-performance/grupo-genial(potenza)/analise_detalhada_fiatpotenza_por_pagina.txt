@@ -1,0 +1,133 @@
+Página 1:
+- Relatório referente ao domínio: fiatpotenza.com.br
+- Data de geração: 7 de abril de 2025
+- Fonte: SEMrush
+- Endereço: 800 Boylston Street, Suite 2475, Boston, MA 02199
+
+Página 2:
+Resumo da Busca Orgânica:
+- Tráfego estimado: 7.300 (aumento de 3%)
+- Posição no ranking da Semrush: 49.900
+- Palavras-chave orgânicas: 991 (estável)
+- Custo do tráfego: R$8.300 (aumento de 3%)
+
+Resumo da Busca Paga:
+- Tráfego estimado: 37 (aumento de 236%)
+- Palavras-chave pagas: 4 (aumento de 100%)
+- Custo do tráfego pago: R$41 (aumento de 128%)
+
+Backlinks:
+- Total: 63
+- Domínios de referência: 29
+- IPs de referência: 37
+
+Página 3:
+Distribuição das Palavras-chave por País:
+- Orgânica:
+  - Brasil: 92,01%
+  - Outros: 7,99%
+- Paga:
+  - Brasil: 80%
+  - Mobile Brasil: 20%
+  - Outros: 0%
+
+Gráfico de Tráfego Orgânico vs Pago:
+- Tráfego orgânico estável entre 0 e 10.000
+- Tráfego pago com crescimento recente e modesto
+
+Página 4:
+Principais Palavras-chave Orgânicas:
+1. "fiat potenza" – Posição: 1 – Volume: 1.000 – Tráfego: 10,90%
+2. "potenza fiat" – Posição: 590 – Tráfego: 6,43%
+3. "fiat potenza caxias" – Posição: 1 – Volume: 590 – Tráfego: 6,43%
+4. "fiat potenza niterói" – Posição: 1 – Volume: 480 – Tráfego: 5,23%
+5. "fiat potenza tribobó" – Posição: 1 – Volume: 480 – Tráfego: 5,23%
+
+Distribuição das Posições:
+- Posições 1-3: 167
+- Posições 4-10: 153
+- Posições 11-20: 135
+- Posições 21-30: 176
+- Posições 31-40: 120
+- Posições 41-50: 64
+- Posições 51-100: 176
+
+Página 5:
+Palavras-chave por Intenção:
+- Informacional: 487 palavras – 3.200 de tráfego (39,1%)
+- Navegacional: 304 palavras – 3.800 de tráfego (24,4%)
+- Comercial: 269 palavras – 2.100 de tráfego (21,6%)
+- Transacional: 186 palavras – 1.600 de tráfego (14,9%)
+
+Principais Concorrentes Orgânicos:
+1. azzurrafiat.com.br – 50 palavras – 666 palavras-chave – Similaridade: 18%
+2. jeeppotenza.com.br – 18 palavras – 265 palavras-chave – Similaridade: 17%
+3. italiabarrafiat.com.br – 46 palavras – 1.400 palavras-chave – Similaridade: 11%
+4. brilhautofiat.com.br – 40 palavras – 1.000 palavras-chave – Similaridade: 10%
+5. grupogenialveiculos.com.br – 8 palavras – 72 palavras-chave – Similaridade: 10%
+
+Página 6:
+Tráfego com Marca:
+- Palavras-chave de marca: 195
+- Tráfego com marca: 4.900
+- Proporção: 66,39% branded / 33,61% não-branded
+
+Tráfego Pago (Abr/24 a Mar/25):
+- Flutuações entre 0,57K e 0,82K visitas mensais
+
+Principais Palavras-chave Pagas:
+1. "fiat potenza tribobó" – Posição: 1 – Volume: 480 – CPC: R$1,29 – Tráfego: 59,45%
+2. "fiat volta redonda" – Posição: 1 – Volume: 210 – CPC: R$2,10 – Tráfego: 24,32%
+3. "fiat potenza tribobó" – Posição: 3 – Volume: 480 – CPC: R$1,29 – Tráfego: 10,81%
+4. "fiat volta redonda" – Posição: 2 – Volume: 210 – CPC: R$2,10 – Tráfego: 5,40%
+
+Concorrente Pago:
+- fiat.com.br – 1 palavra – 1.600 anúncios – Similaridade: 0%
+
+Página 7:
+Exemplos de Anúncios:
+1. Fiat Potenza São Gonçalo – https://www.fiatpotenza.com.br
+   Garanta seu Fiat 0km com condições especiais para produtor rural.
+
+2. Fiat Potenza Volta Redonda – https://www.fiatpotenza.com.br/toro/oferta
+   Agende test drive e conheça o novo Toro 0km.
+
+3. Fiat Potenza Volta Redonda – https://www.fiatpotenza.com.br/fastback/oferta
+
+URLs destacadas:
+- https://www.fiatpotenza.com.br/
+- https://www.fiatpotenza.com.br/novos/fiat-toro
+- https://www.fiatpotenza.com.br/novos/fiat-fastback
+
+Página 8:
+Backlinks - Total: 63
+
+Exemplos de Backlinks:
+- https://www.trustfeed.com/fiat-dealership-potenza-56620043 -> http://fiatpotenza.com.br/
+- https://www.grupogenialveiculos.com.br/ -> https://www.fiatpotenza.com.br/
+- https://justos.com.br/concessionarias/barra-mansa/nucleo-residencial-ponte-alta/ChIJHVGlVAOZngARByPcBTIOdg0 -> https://www.fiatpotenza.com.br/
+
+Principais Anchors:
+- fiatpotenza.com.br – 31% (20 backlinks de 18 domínios)
+- http://fiatpotenza.com.br/ – 22% (14 backlinks de 1 domínio)
+- https://www.fiatpotenza.com.br/ – 13% (8 backlinks de 1 domínio)
+- Âncora vazia – 8% (5 backlinks de 2 domínios)
+- abrir website – 6% (4 backlinks de 1 domínio)
+
+Follow/Nofollow:
+- Follow: 53 backlinks (84,13%)
+- Nofollow: 10 backlinks (15,87%)
+
+Tipos de Backlinks:
+- Texto: 60 (89,75%)
+- Imagem: 3 (4,49%)
+- Frame/Form: 0
+
+Domínios Relevantes:
+- justos.com.br (24 backlinks), trustfeed.com (7), pecadireta.com.br (4), grupogenialveiculos.com.br (2), tntcode.com (2)
+
+Páginas mais referenciadas:
+- https://fiatpotenza.com.br/ – 9 backlinks
+- http://fiatpotenza.com.br/ – 22 backlinks
+- https://www.fiatpotenza.com.br/fiat-potenza-duque-de-caxias – 6 backlinks
+- http://fiatpotenza.com.br/fiat-potenza-duque-de-caxias – 1 backlink

@@ -1,0 +1,66 @@
+FONTE DOS DADOS DA ANÁLISE DE SEO
+
+1. MÉTRICAS DO GRUPO LÍDER
+
+1.1. Média de Palavras no TOP 3 (87.9 palavras)
+- Fonte: Arquivos JSON do Grupo Líder
+- Arquivos utilizados:
+  * analise-performance/grupo-lider/toyotasulpar/analise_detalhada_toyotasulpar_por_pagina.json (676 palavras)
+  * analise-performance/grupo-lider/carlider/analise_detalhada_carlider_por_pagina.json (252 palavras)
+  * analise-performance/grupo-lider/lider-chevrolet/analise_detalhada_liderbhchevrolet_por_pagina.json (494 palavras)
+  * analise-performance/grupo-lider/mila/analise_detalhada_mila_por_pagina.json (104 palavras)
+  * analise-performance/grupo-lider/valore-fiat/analise_detalhada_valorefiat_por_pagina.json (89 palavras)
+
+1.2. Volume Total de Pesquisas (32,018 pesquisas/mês)
+- Fonte: Arquivos JSON do Grupo Líder
+- Arquivos utilizados:
+  * analise-performance/grupo-lider/eagleram/analise_detalhada_eagleram_por_pagina.json (23,300 pesquisas)
+  * analise-performance/grupo-lider/eaglejeep/analise_detalhada_eaglejeep_por_pagina.json (6,000 pesquisas)
+  * analise-performance/grupo-lider/toyotasulpar/analise_detalhada_toyotasulpar_por_pagina.json (1,200 pesquisas)
+  * analise-performance/grupo-lider/meuliderdrive/analise_detalhada_meuliderdrive_por_pagina.json (736 pesquisas)
+
+2. MÉTRICAS DO GRUPO BARIGUI (CONCORRENTE)
+
+2.1. Média de Palavras no TOP 3 (40.1 palavras)
+- Fonte: Arquivos JSON do Grupo Barigui
+- Arquivos utilizados:
+  * analise-performance/grupo-barigui/bmwbarigui/analise_detalhada_bmwbarigui_por_pagina.json (212 palavras)
+  * analise-performance/grupo-barigui/grupobarigui/analise_detalhada_grupobarigui_por_pagina.json (143 palavras)
+  * analise-performance/grupo-barigui/fiatbarigui/analise_detalhada_fiatbarigui_por_pagina.json (120 palavras)
+  * analise-performance/grupo-barigui/renaultbarigui/analise_detalhada_renaultbarigui_por_pagina.json (66 palavras)
+
+2.2. Volume Total de Pesquisas (69,497 pesquisas/mês)
+- Fonte: Arquivos JSON do Grupo Barigui
+- Arquivos utilizados:
+  * analise-performance/grupo-barigui/bydbarigui/analise_detalhada_bydbarigui_por_pagina.json (14,400 pesquisas)
+  * analise-performance/grupo-barigui/jeepbarigui/analise_detalhada_jeepbarigui_por_pagina.json (13,900 pesquisas)
+  * analise-performance/grupo-barigui/fiatbarigui/analise_detalhada_fiatbarigui_por_pagina.json (12,600 pesquisas)
+  * analise-performance/grupo-barigui/renaultbarigui/analise_detalhada_renaultbarigui_por_pagina.json (11,500 pesquisas)
+  * analise-performance/grupo-barigui/citroenbarigui/analise_detalhada_citroenbarigui_por_pagina.json (8,800 pesquisas)
+  * analise-performance/grupo-barigui/nissanbarigui/analise_detalhada_nissanbarigui_por_pagina.json (7,300 pesquisas)
+
+3. DESTAQUES DO GRUPO LÍDER
+
+3.1. Toyota Sulpar (676 palavras no TOP 3)
+- Fonte: analise-performance/grupo-lider/toyotasulpar/analise_detalhada_toyotasulpar_por_pagina.json
+
+3.2. Eagle RAM (23,300 pesquisas/mês)
+- Fonte: analise-performance/grupo-lider/eagleram/analise_detalhada_eagleram_por_pagina.json
+
+3.3. Eagle Jeep (6,000 pesquisas/mês)
+- Fonte: analise-performance/grupo-lider/eaglejeep/analise_detalhada_eaglejeep_por_pagina.json
+
+4. MÉTODO DE EXTRAÇÃO DOS DADOS
+
+Todos os dados foram extraídos diretamente dos arquivos JSON usando o script analise_grupo_lider.py, que:
+1. Lê os arquivos JSON da pasta analise-performance
+2. Extrai as métricas de cada arquivo
+3. Calcula as médias e totais por grupo
+4. Gera os rankings por marca
+
+Os dados são extraídos especificamente dos campos:
+- "Posições 1-3:" para número de palavras no TOP 3
+- "Tráfego estimado:" para volume de pesquisas
+- "Relatório referente ao domínio:" para identificação do site
+
+Todas as métricas apresentadas são baseadas exclusivamente nos dados dos arquivos JSON fornecidos, sem qualquer manipulação ou criação de dados fictícios. 

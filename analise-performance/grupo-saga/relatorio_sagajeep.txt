@@ -1,0 +1,116 @@
+Página 1:
+- Relatório referente ao domínio: sagajeep.com.br
+- Data de geração: 6 de abril de 2025
+- Fonte: SEMrush
+- Endereço: 800 Boylston Street, Suite 2475, Boston, MA 02199
+
+Página 2:
+Resumo da Busca Orgânica:
+- Tráfego estimado: 19.000 (aumento de 16%)
+- Posição no ranking da Semrush: 24.400
+- Palavras-chave orgânicas: 3.200 (estável)
+- Custo do tráfego: R$128.900 (aumento de 175%)
+
+Resumo da Busca Paga:
+- Tráfego estimado: 1.300 (estável)
+- Palavras-chave pagas: 43 (aumento de 5%)
+- Custo do tráfego pago: R$2.300 (aumento de 1%)
+
+Backlinks:
+- Total: 147
+- Domínios de referência: 83
+- IPs de referência: 85
+
+Página 3:
+Distribuição das Palavras-chave por País:
+- Brasil: 86,84%
+- Mobile Brasil: 4,22%
+- Outros: 8,95%
+
+Gráfico de Tráfego Orgânico vs Pago:
+- Tráfego orgânico com picos até 50.000 visitas
+- Tráfego pago com oscilações leves ao longo do tempo
+
+Página 4:
+Principais Palavras-chave Orgânicas:
+1. "jeep" – Volume: 201.000 – Tráfego: 13,75%
+2. "compass" – Volume: 60.500 – Tráfego: 10,34%
+3. "saga jeep" – Posição: 1 – Volume: 720 – Tráfego: 3,03%
+4. "compass 2018" – Volume: 5.400 – Tráfego: 1,96%
+5. "new compass 2018" – Volume: 3.600 – Tráfego: 1,31%
+
+Distribuição das Posições:
+- Posições 1-3: 159
+- Posições 4-10: 292
+- Posições 11-20: 349
+- Posições 21-30: 315
+- Posições 31-40: 281
+- Posições 41-50: 198
+- Posições 51-100: 546
+
+Página 5:
+Palavras-chave por Intenção:
+- Informacional: 2.600 palavras – 13.400 de tráfego (68,1%)
+- Navegacional: 393 palavras – 4.800 de tráfego (10,1%)
+- Comercial: 359 palavras – 2.800 de tráfego (9,2%)
+- Transacional: 489 palavras – 1.600 de tráfego (12,6%)
+
+Principais Concorrentes Orgânicos:
+1. jeep.com.br – 732 palavras – 42.700 palavras-chave – Similaridade: 22%
+2. jeep.pt – 63 palavras – 2.300 palavras-chave – Similaridade: 8%
+3. stellantis.com – 307 palavras – 35.000 palavras-chave – Similaridade: 7%
+4. portaldoscarros.com.br – 38 palavras – 1.100 palavras-chave – Similaridade: 7%
+5. balijeep.com.br – 43 palavras – 1.100 palavras-chave – Similaridade: 6%
+
+Página 6:
+Tráfego com Marca:
+- Palavras-chave de marca: 324
+- Tráfego com marca: 3.400
+- Proporção: 17,73% branded / 82,27% não-branded
+
+Gráfico de Tráfego Pago:
+- Abril/2024 a Março/2025: tráfego entre 0,12 e 0,21 mil visitas por mês
+
+Página 7:
+Palavras-chave Pagas:
+1. "jeep compass 2023" – Posição: 1 – Volume: 8.100 – CPC: R$0,82 – Tráfego: 30,40%
+2. "jeep compass 2024" – Posição: 6 – Volume: 27.100 – CPC: R$1,58 – Tráfego: 10,80%
+3. "jeep renegade 2024" – Posição: 3 – Volume: 14.800 – CPC: R$1,58 – Tráfego: 10,63%
+4. "jeep compass longitude" – Posição: 2 – Volume: 9.900 – CPC: R$2,16 – Tráfego: 10,24%
+5. "renegade 2025" – Posição: 2 – Volume: 6.600 – CPC: R$1,87 – Tráfego: 6,80%
+
+Exemplos de Anúncios:
+1. "Seu Compass por R$154.990" – https://www.sagajeep.com.br/jeep/compass
+2. "Seu Renegade por R$172.990" – https://www.sagajeep.com.br/jeep/renegade
+3. "Ofertas Compass e Renegade" – https://www.sagajeep.com.br/go-saga-jeep-anapolis/ofertas
+
+Página 8:
+Exemplos de Backlinks:
+- https://www.trustfeed.com/jeep-dealership-saga-43747661 → http://www.sagajeep.com.br/
+- https://www.gruposaga.com.br/ → https://sagajeep.com.br/
+
+Principais Anchors:
+- "www.sagajeep.com.br" – 30% (44 domínios, 45 backlinks)
+- "sagajeep.com.br" – 22% (20 domínios, 32 backlinks)
+- Âncora vazia – 17% (6 domínios, 25 backlinks)
+- "ir para o site" – 5% (2 domínios, 8 backlinks)
+- "website" – 3% (1 domínio, 5 backlinks)
+
+Follow/Nofollow:
+- Follow: 103 (69,60%)
+- Nofollow: 45 (30,40%)
+
+Tipos de Backlinks:
+- Texto: 128 (82,05%)
+- Imagem: 19 (12,18%)
+- Frame/Form: 0
+
+Domínios Relevantes:
+- trustfeed.com (27), gruposaga.com.br (10), comerciobrasilia.com.br (9), estradacolonial.com.br (5), saganet.com.br (4)
+
+Páginas Mais Referenciadas:
+- https://www.sagajeep.com.br/ – 56 backlinks
+- https://sagajeep.com.br/ – 13 backlinks
+- http://www.sagajeep.com.br/ – 29 backlinks
+- https://www.sagajeep.com.br/novos/detalhe/renegade – 4 backlinks
+- https://sagajeep.com.br/df-saga-jeep-asa-norte – 4 backlinks

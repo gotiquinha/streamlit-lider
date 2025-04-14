@@ -1,0 +1,111 @@
+Página 1:
+- Relatório referente ao domínio: motolider.com.br
+- Data de geração: 5 de abril de 2025
+- Fonte: SEMrush
+- Endereço: 800 Boylston Street, Suite 2475, Boston, MA 02199
+
+Página 2:
+Resumo da Busca Orgânica:
+- Tráfego estimado: 470 (↑ 5%)
+- Posição no ranking da Semrush: 312.000
+- Palavras-chave orgânicas: 332 (↑ 2%)
+- Custo do tráfego: R$350 (↑ 5%)
+
+Resumo da Busca Paga:
+- Tráfego estimado: 0
+- Palavras-chave pagas: 0
+- Custo do tráfego pago: R$0
+
+Backlinks:
+- Total: 1.700
+- Domínios de referência: 28
+- IPs de referência: 38
+
+Página 3:
+Distribuição das Palavras-chave por País:
+- Orgânica:
+  - Brasil: 93,52%
+  - Outros: 6,48%
+
+Gráfico de Tráfego Orgânico vs Pago:
+- Tráfego orgânico entre 0 e 2.000 visitas historicamente
+- Tráfego pago inexistente
+
+Página 4:
+Principais Palavras-chave Orgânicas:
+1. "motolider" – Posição: 1 – Volume: 140 – Tráfego: 23,82%
+2. "honda muriae" – Posição: 1 – Volume: 110 – Tráfego: 18,72%
+3. "honda motolider teofilo otoni" – Posição: 1 – Volume: 110 – Tráfego: 18,72%
+4. "lider motos" – Posição: 11 – Volume: 1.600 – Tráfego: 4,25%
+5. "moto lider" – Posição: 1 – Volume: 590 – Tráfego: 3,19%
+
+Distribuição das Posições:
+- Posições 1-3: 42
+- Posições 4-10: 47
+- Posições 11-20: 42
+- Posições 21-30: 38
+- Posições 31-40: 24
+- Posições 41-50: 12
+- Posições 51-100: 124
+
+Página 5:
+Palavras-chave por Intenção:
+- Informacional: 149 palavras – 36 de tráfego (38,2%)
+- Navegacional: 76 palavras – 316 de tráfego (19,5%)
+- Comercial: 128 palavras – 224 de tráfego (32,8%)
+- Transacional: 37 palavras – 36 de tráfego (9,5%)
+
+Concorrentes Orgânicos:
+1. recreiomotos.com.br – 41 palavras em comum – 1.500 palavras-chave – Similaridade: 27%
+2. estrelah.com.br – 9 palavras – 42 palavras-chave – Similaridade: 19%
+3. lidermotoslondrina.com.br – 5 palavras – 231 palavras-chave – Similaridade: 16%
+4. planetah.com.br – 5 palavras – 242 palavras-chave – Similaridade: 11%
+5. itagoitamotos.com.br – 4 palavras – 19 palavras-chave – Similaridade: 10%
+
+Página 6:
+Tráfego com Marca:
+- Palavras-chave de marca: 10
+- Tráfego com marca: 313
+- Proporção: 66,60% branded / 33,40% não-branded
+
+Tráfego Pago:
+- Nenhuma palavra-chave paga listada
+- Concorrentes pagos não identificados
+
+Exemplo de Gráfico (abr/24 a mar/25): variações mensais entre 0,63 e 0,89 visitas
+
+Página 7:
+Backlinks - Total: 1.700
+
+Principais Backlinks:
+- https://www.grupolider.com.br/ -> https://www.motolider.com.br/
+- https://www.estrelah.com.br/ -> https://www.motolider.com.br/es-alegre
+- https://www.estrelah.com.br/ -> https://www.motolider.com.br/es-cachoeiro
+- https://www.estrelah.com.br/ -> https://www.motolider.com.br/es-cachoeiro
+- https://www.estrelah.com.br/ -> https://www.motolider.com.br/es-alegre
+
+Principais Anchors:
+- "visite o site" – 17% (5 domínios, 144 backlinks)
+- "es - rio novo" – 10% (2 domínios, 85 backlinks)
+- "es - novo rio" – 10% (2 domínios, 79 backlinks)
+- "es - guaçuí" – 6% (2 domínios, 54 backlinks)
+- "mg - muriaé" – 6% (2 domínios, 54 backlinks)
+
+Follow/Nofollow:
+- Follow: 1.690 backlinks (97,06%)
+- Nofollow: 10 backlinks (2,94%)
+
+Tipos de Backlinks:
+- Texto: 1.700 (91,52%)
+- Imagem: 4 (2,83%)
+- Frame/Form: 0
+
+Domínios Relevantes:
+- estrelah.com.br (595), carlider.com.br (84), grupolider.com.br (35), aquilaseguros.com.br (4), parafa.com.br (4)
+
+Páginas mais referenciadas:
+- https://www.motolider.com.br/honda-muriae – 638 backlinks
+- https://www.motolider.com.br/honda-capelinha – 636 backlinks
+- https://www.motolider.com.br/honda-carangola – 636 backlinks
+- https://www.motolider.com.br/honda-teofilo-otoni – 636 backlinks
+- https://www.motolider.com.br/es-alegre – 635 backlinks
