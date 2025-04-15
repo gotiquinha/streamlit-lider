@@ -148,13 +148,42 @@ def load_seo_data():
 # Título compacto
 st.markdown("<h2 style='text-align: center; margin-bottom: 0;'>SEO Grupo Lider</h2>", unsafe_allow_html=True)
 
+# Introdução
+st.markdown("""
+### Introdução
+Este relatório apresenta uma análise comparativa de performance SEO entre o Grupo Lider e seus principais concorrentes no mercado automotivo. As análises são baseadas em dados reais coletados através do [SEMrush](https://pt.semrush.com/seo/).
+""")
+
+# Adicionar informação sobre a fonte dos dados
+st.markdown("""
+<div style='text-align: center; font-size: 0.8em; color: #666; margin-bottom: 20px;'>
+    Dados coletados pelo SEMrush nos últimos 12 meses
+</div>
+""", unsafe_allow_html=True)
+
 # Carregar dados de SEO
 df_seo = load_seo_data()
 
 if not df_seo.empty:
+    # Função para formatar números no padrão brasileiro
+    def format_br(value):
+        if isinstance(value, float):
+            return f"{value:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+        elif isinstance(value, int):
+            return f"{value:,}".replace(",", ".")
+        return value
+
     # Adicionar coluna para identificar se é do Grupo Líder
     df_seo['is_lider'] = df_seo['grupo'].str.lower().str.contains('lider')
     df_seo['marca_display'] = df_seo.apply(lambda x: f"{x['marca']} (Grupo Líder)" if x['is_lider'] else x['marca'], axis=1)
+
+    # Configurar o estilo da tabela para ocultar a primeira coluna e usar formatação brasileira
+    def style_dataframe(df):
+        return df.style.format({
+            'Volume de Buscas': format_br,
+            '% Tráfego': lambda x: f"{x:.2f}%".replace(".", ","),
+            'Marca': lambda x: x
+        }).hide(axis='index')
 
     # Tabs principais
     tab1, tab2 = st.tabs(["📊 Visão Geral", "📈 Análise Competitiva"])
@@ -215,39 +244,34 @@ if not df_seo.empty:
         Análise das principais palavras-chave que direcionam tráfego para os sites.
         """)
         
-        # Palavras-chave do Grupo Líder
-        st.markdown("""
-        #### Grupo Líder - Top Palavras-chave
-        Palavras-chave mais relevantes que direcionam tráfego para nossos sites, ordenadas por volume de busca.
-        """)
+        # Criar DataFrame com as palavras-chave mais relevantes
+        keywords_data = {
+            'Palavra-chave': [],
+            'Volume de Buscas': [],
+            '% Tráfego': [],
+            'Marca': []
+        }
         
-        # Criar DataFrame com palavras-chave do Grupo Líder
-        palavras_lider = []
-        for _, row in df_lider.iterrows():
-            for palavra in row.get('top_palavras', []):
-                palavras_lider.append({
-                    'palavra': palavra['palavra'],
-                    'volume': palavra['volume'],
-                    'trafego': palavra.get('trafego', 0),
-                    'marca': row['marca']
-                })
+        for idx, row in df_lider.iterrows():
+            for kw in row.get('top_palavras', []):
+                keywords_data['Palavra-chave'].append(kw['palavra'])
+                keywords_data['Volume de Buscas'].append(kw['volume'])
+                keywords_data['% Tráfego'].append(kw['trafego'])
+                keywords_data['Marca'].append(row['marca'])
         
-        if palavras_lider:
-            df_palavras_lider = pd.DataFrame(palavras_lider)
-            df_palavras_lider = df_palavras_lider.sort_values('volume', ascending=False).head(10)
-            
-            st.dataframe(
-                df_palavras_lider,
-                column_config={
-                    "palavra": "Palavra-chave",
-                    "volume": st.column_config.NumberColumn("Volume de Buscas", format="%d"),
-                    "trafego": st.column_config.NumberColumn("% Tráfego", format="%.2f%%"),
-                    "marca": "Marca"
-                },
-                use_container_width=True
-            )
-        else:
-            st.info("Não foram encontradas palavras-chave para o Grupo Líder.")
+        df_keywords = pd.DataFrame(keywords_data)
+        df_keywords = df_keywords.sort_values('Volume de Buscas', ascending=False)
+        
+        st.markdown("### Grupo Líder - Top Palavras-chave")
+        st.markdown("Palavras-chave mais relevantes que direcionam tráfego para nossos sites, ordenadas por volume de busca.")
+        
+        # Aplicar o estilo e exibir a tabela com scroll
+        st.dataframe(
+            style_dataframe(df_keywords),
+            use_container_width=True,
+            hide_index=True,
+            height=400
+        )
         
         # Seção de Top Concorrentes
         st.markdown("""
@@ -411,9 +435,68 @@ if not df_seo.empty:
                 'backlinks': 'Número de Backlinks',
                 'posicao_media': 'Posição Média',
                 'trafego_organico': 'Tráfego Orgânico',
-                'is_lider': 'Grupo Líder'
+                'is_lider': 'Empresa'
+            },
+            color_discrete_map={
+                True: '#0066CC',    # Azul do Grupo Líder
+                False: '#FF8C00'    # Laranja escuro para concorrentes
             }
         )
+
+        # Personalizar o layout do gráfico
+        fig_position.update_layout(
+            showlegend=True,
+            legend_title="Empresa",
+            plot_bgcolor='white',
+            legend=dict(
+                yanchor="top",
+                y=0.99,
+                xanchor="right",
+                x=0.99
+            ),
+            hoverlabel=dict(
+                bgcolor="white",
+                font_size=12,
+                font_family="Arial"
+            )
+        )
+
+        # Atualizar legendas para nomes mais claros
+        fig_position.data[0].name = "Concorrentes"
+        fig_position.data[1].name = "Grupo Líder"
+
+        # Atualizar eixos
+        fig_position.update_xaxes(
+            showgrid=True,
+            gridwidth=1,
+            gridcolor='LightGray',
+            title_font=dict(size=14),
+            type='log',  # escala logarítmica para melhor visualização
+            tickformat=",.0f"  # formato brasileiro para números
+        )
+        
+        fig_position.update_yaxes(
+            showgrid=True,
+            gridwidth=1,
+            gridcolor='LightGray',
+            title_font=dict(size=14),
+            tickformat=",.0f"  # formato brasileiro para números
+        )
+
+        # Atualizar marcadores
+        fig_position.update_traces(
+            marker=dict(
+                line=dict(width=1, color='DarkSlateGrey')
+            ),
+            selector=dict(mode='markers'),
+            hovertemplate="<b>%{customdata[0]}</b><br>" +
+                         "Domínio: %{customdata[1]}<br>" +
+                         "Backlinks: %{x:,.0f}<br>" +
+                         "Posição Média: %{y:,.0f}<br>" +
+                         "Tráfego Orgânico: %{marker.size:,.0f}<br>" +
+                         "<extra></extra>"
+        )
+
         st.plotly_chart(fig_position, use_container_width=True)
         
         # Tabela de Métricas Detalhadas
@@ -425,6 +508,11 @@ if not df_seo.empty:
         - **Backlinks**: Número total de links recebidos
         - **Domínios Referência**: Número de sites únicos que fazem link
         - **Posição Média**: Posição média nas buscas (quanto menor, melhor)
+        
+        > **📌 Nota sobre Posição Média:**
+        > - O Google geralmente mostra apenas os primeiros 1.000 resultados
+        > - Os usuários raramente passam da primeira página (top 10 resultados)
+        > - Quanto mais próximo de 1, melhor o posicionamento
         """)
         
         metricas_competitivas = df_seo.groupby('marca_display').agg({
@@ -444,6 +532,16 @@ if not df_seo.empty:
             'Posição Média'
         ]
         
-        st.dataframe(metricas_competitivas, use_container_width=True)
+        # Aplicar formatação brasileira aos números
+        st.dataframe(
+            metricas_competitivas.style.format({
+                'Tráfego Orgânico': lambda x: f'{x:,.0f}'.replace(',', '.'),
+                'Palavras-chave': lambda x: f'{x:,.0f}'.replace(',', '.'),
+                'Backlinks': lambda x: f'{x:,.0f}'.replace(',', '.'),
+                'Domínios Referência': lambda x: f'{x:,.0f}'.replace(',', '.'),
+                'Posição Média': lambda x: f'{x/1000:.1f}k'.replace('.', ',') if x >= 1000 else f'{x:.0f}'
+            }),
+            use_container_width=True
+        )
 else:
     st.warning("Nenhum dado de SEO encontrado. Verifique se os arquivos JSON estão no diretório correto.") 
